@@ -1,0 +1,15 @@
+# keep in mind.
+
+1) make sure it checks if the person has a plan before the next day starts, and if he didn't have any plans then ask on restart.
+
+2) Keep reminding user of time left for the current task and upcoming task is in how many minutes.
+
+3) keep asking user if they have something on their mind that they can add/ add as a goal.
+
+4) motivate them by showing them how much they have achieved of their goals. like weekly, in a week, and 3 days goals as well
+
+5) analyze with AI where he/she spends a lot of time and what he/she likes,
+
+6) understand their habits and help them with a local AI (not mandatory tho). and collect nobody's data.
+
+7) remember we are here to help! and so yes you don't forget your way, you too have to enjoy life and help! let's make it happen!
